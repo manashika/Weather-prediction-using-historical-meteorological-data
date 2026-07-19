@@ -1,0 +1,15 @@
+[
+  "temperature_celsius",
+  "humidity",
+  "wind_kph",
+  "pressure_mb",
+  "precip_mm",
+  "cloud",
+  "visibility_km",
+  "uv_index",
+  "gust_kph",
+  "air_quality_PM2.5",
+  "air_quality_PM10",
+  "latitude",
+  "longitude"
+]
